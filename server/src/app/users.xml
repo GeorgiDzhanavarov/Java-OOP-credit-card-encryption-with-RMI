@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="19" class="java.beans.XMLDecoder">
+ <object class="components.User">
+  <void property="canDecrypt">
+   <boolean>true</boolean>
+  </void>
+  <void property="canEncrypt">
+   <boolean>true</boolean>
+  </void>
+  <void property="password">
+   <string>1234</string>
+  </void>
+  <void property="username">
+   <string>abv</string>
+  </void>
+ </object>
+ <object class="components.User">
+  <void property="canEncrypt">
+   <boolean>true</boolean>
+  </void>
+  <void property="password">
+   <string>4567</string>
+  </void>
+  <void property="username">
+   <string>abds</string>
+  </void>
+ </object>
+ <object class="components.User">
+  <void property="canDecrypt">
+   <boolean>true</boolean>
+  </void>
+  <void property="canEncrypt">
+   <boolean>true</boolean>
+  </void>
+  <void property="password">
+   <string>4567</string>
+  </void>
+  <void property="username">
+   <string>aaa</string>
+  </void>
+ </object>
+ <object class="components.User">
+  <void property="canDecrypt">
+   <boolean>true</boolean>
+  </void>
+  <void property="password">
+   <string>1111</string>
+  </void>
+  <void property="username">
+   <string>qwe</string>
+  </void>
+ </object>
+ <object class="components.User">
+  <void property="password">
+   <string>5678</string>
+  </void>
+  <void property="username">
+   <string>abv</string>
+  </void>
+ </object>
+ <object class="components.User">
+  <void property="canDecrypt">
+   <boolean>true</boolean>
+  </void>
+  <void property="canEncrypt">
+   <boolean>true</boolean>
+  </void>
+  <void property="password">
+   <string>1234</string>
+  </void>
+  <void property="username">
+   <string>gosho</string>
+  </void>
+ </object>
+</java>
